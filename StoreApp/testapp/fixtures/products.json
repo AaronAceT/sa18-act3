@@ -1,6 +1,6 @@
 [
     {
-      "model": "myapp.product",
+      "model": "testapp.product",
       "pk": 1,
       "fields": {
         "name": "Product 1",
@@ -9,7 +9,7 @@
       }
     },
     {
-      "model": "myapp.product",
+      "model": "testapp.product",
       "pk": 2,
       "fields": {
         "name": "Product 2",
